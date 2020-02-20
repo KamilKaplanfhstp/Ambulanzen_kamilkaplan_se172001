@@ -1,0 +1,1271 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 871,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.84",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 84,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Hals-, Nasen- und Ohrenkrankheiten<br />Klin. Abteilung für Allgemeine Hals-, Nasen- und Ohrenkrankheiten",
+                "BEZEICHNUNG": "Allergieambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=1895",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 85,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Hals-, Nasen- und Ohrenkrankheiten<br />Klin. Abteilung für Allgemeine Hals-, Nasen- und Ohrenkrankheiten",
+                "BEZEICHNUNG": "Allgemeine Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=1894",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.86",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 86,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Hals-, Nasen- und Ohrenkrankheiten<br />Klin. Abteilung für Allgemeine Hals-, Nasen- und Ohrenkrankheiten",
+                "BEZEICHNUNG": "Internistische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=3323",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 87,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Hals-, Nasen- und Ohrenkrankheiten<br />Klin. Abteilung für Allgemeine Hals-, Nasen- und Ohrenkrankheiten",
+                "BEZEICHNUNG": "Riech- und Schmeckstörungen",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=3479",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.88",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 88,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Hals-, Nasen- und Ohrenkrankheiten<br />Klin. Abteilung für Allgemeine Hals-, Nasen- und Ohrenkrankheiten",
+                "BEZEICHNUNG": "Tumorambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2604",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 89,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Hals-, Nasen- und Ohrenkrankheiten<br />Klin. Abteilung für Phoniatrie-Logopädie",
+                "BEZEICHNUNG": "Phoniatrische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=1902",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.90",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 90,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Akute Leukämien",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2615",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 91,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Antikoagulantienambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2623",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.92",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 92,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Chronisch lymphatische Leukämien",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2616",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 93,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Chronisch myeloische Leukämien",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2617",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.94",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 94,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Gerinnungsambulanz/Hämostaseologische Ambulanz für Erwachsene",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2614",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.95",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 95,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Hämatologische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=1739",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.96",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 96,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Hämophilieambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=1738",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 97,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Lymphome und akute lymphatische Leukämie",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2618",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.98",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 98,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Multiples Myelom",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2620",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 99,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Myelodysplastische Syndrome",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2619",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 100,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Myeloproliferative Erkrankungen",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2621",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 101,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Pflegeambulanz Hämatologie",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=3549",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 102,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Psychoonkologie- Onko- Rehabilitation",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2622",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 103,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Innere Medizin I<br />Klin. Abteilung für Hämatologie und Hämostaseologie",
+                "BEZEICHNUNG": "Thromboseambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=1737",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 206,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Ambulanz für Depression, bipolare Erkrankung und ADHS",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2038",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 207,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Ambulanz für Essstörungen",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2036",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 208,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Ambulanz für Herbst-Winter-Depressionen",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2037",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 209,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Drogenambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2039",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 210,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Forensische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2040",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 211,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Forensische Drogenambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2041",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 212,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Gedächtnisambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2042",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 213,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Hauptambulanz - Erstkontakte",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2033",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 214,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Allgemeine Psychiatrie",
+                "BEZEICHNUNG": "Notfallambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2577",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 215,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Ambulanz für Alkoholismusgefährdete",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2047",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 216,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Ambulanz zur Früherkennung von Psychosen",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2055",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.217",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 217,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Hauptambulanz - Erstkontakte",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2045",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.218",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 218,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Integrative Psychosebehandlung",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2576",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 219,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Notfallambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=3260",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 220,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Phasenprophylaxe-Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2053",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 221,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Psychosomatische Ambulanz (externe Zuweisungen)",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2054",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 222,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Schlafambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2333",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 223,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Transkulturelle Psychiatrie und migrationsbedingte psych. Störungen",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2056",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 224,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Psychiatrie und Psychotherapie<br />Klin. Abteilung für Sozialpsychiatrie",
+                "BEZEICHNUNG": "Verhaltenstherapeutische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2058",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 225,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Radiologie und Nuklearmedizin<br />Klin. Abteilung für Allgemeine Radiologie und Kinderradiologie",
+                "BEZEICHNUNG": "Allgemeine Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2068",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 248,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "Linearbeschleuniger E",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2087",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 249,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "Mammakarzinom",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2076",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 250,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "Psychoonkologische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2084",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 251,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "Röntgentherapie",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2085",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 252,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "Sarkome",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2079",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 253,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "Simulator",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2086",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 254,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "Urologische Tumoren",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2592",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344339456731365,
+                    48.22019046820047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 255,
+                "KRANKENHAUS_BEZEICHNUNG": "Allgemeines Krankenhaus der Stadt Wien - Medizinischer Universitätscampus",
+                "ABTEILUNG": "Univ. Klinik für Strahlentherapie<br />Klin. Abt. für Teletherapie",
+                "BEZEICHNUNG": "ZNS Tumoren und Augenstereotaxie",
+                "WEBLINK1": "http://www.wienkav.at/kav/akh/Medstellen_Anzeigen.asp?id=2075",
+                "ADRESSE": "9., Währinger Gürtel 18-20",
+                "BEZIRK": 9,
+                "TELEFON": "+43 1 40400-(+43 1) +43 1 40400",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352413257816327,
+                    48.17538530494133
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 256,
+                "KRANKENHAUS_BEZEICHNUNG": "Sozialmedizinisches Zentrum Süd - Kaiser-Franz-Josef-Spital mit Gottfried von Preyer'schem Kinderspital",
+                "ABTEILUNG": "1. Medizinische Abteilung<br />1. Medizinische Ambulanz",
+                "BEZEICHNUNG": "Ambulanz für Gestationsdiabetikerinnen",
+                "WEBLINK1": "http://www.wienkav.at/kav/kfj/Medstellen_Anzeigen.asp?id=732",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "TELEFON": "+43 1 601 91-721 20",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352413257816327,
+                    48.17538530494133
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 257,
+                "KRANKENHAUS_BEZEICHNUNG": "Sozialmedizinisches Zentrum Süd - Kaiser-Franz-Josef-Spital mit Gottfried von Preyer'schem Kinderspital",
+                "ABTEILUNG": "1. Medizinische Abteilung<br />1. Medizinische Ambulanz",
+                "BEZEICHNUNG": "Ambulanz für Nieren- und Hochdruckerkrankungen und Transplantationsnachsorge",
+                "WEBLINK1": "http://www.wienkav.at/kav/kfj/Medstellen_Anzeigen.asp?id=736",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "TELEFON": "+43 1 601 91-721 20",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352413257816327,
+                    48.17538530494133
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 258,
+                "KRANKENHAUS_BEZEICHNUNG": "Sozialmedizinisches Zentrum Süd - Kaiser-Franz-Josef-Spital mit Gottfried von Preyer'schem Kinderspital",
+                "ABTEILUNG": "1. Medizinische Abteilung<br />1. Medizinische Ambulanz",
+                "BEZEICHNUNG": "Diabetesambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/kfj/Medstellen_Anzeigen.asp?id=733",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "TELEFON": "+43 1 601 91-721 20",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352413257816327,
+                    48.17538530494133
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 259,
+                "KRANKENHAUS_BEZEICHNUNG": "Sozialmedizinisches Zentrum Süd - Kaiser-Franz-Josef-Spital mit Gottfried von Preyer'schem Kinderspital",
+                "ABTEILUNG": "1. Medizinische Abteilung<br />1. Medizinische Ambulanz",
+                "BEZEICHNUNG": "Psychosomatische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/kfj/Medstellen_Anzeigen.asp?id=737",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "TELEFON": "+43 1 601 91-2128",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352413257816327,
+                    48.17538530494133
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 260,
+                "KRANKENHAUS_BEZEICHNUNG": "Sozialmedizinisches Zentrum Süd - Kaiser-Franz-Josef-Spital mit Gottfried von Preyer'schem Kinderspital",
+                "ABTEILUNG": "2. Medizinische Abteilung mit Rheumatologie und Osteologie<br />2. Medizinische Ambulanz",
+                "BEZEICHNUNG": "Ambulanz für Autoimmunkrankheiten",
+                "WEBLINK1": "http://www.wienkav.at/kav/kfj/Medstellen_Anzeigen.asp?id=996",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "TELEFON": "+43 1 601 91-2239",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352413257816327,
+                    48.17538530494133
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 261,
+                "KRANKENHAUS_BEZEICHNUNG": "Sozialmedizinisches Zentrum Süd - Kaiser-Franz-Josef-Spital mit Gottfried von Preyer'schem Kinderspital",
+                "ABTEILUNG": "2. Medizinische Abteilung mit Rheumatologie und Osteologie<br />2. Medizinische Ambulanz",
+                "BEZEICHNUNG": "Osteologisch-Endokrinologische Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/kfj/Medstellen_Anzeigen.asp?id=998",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "TELEFON": "+43 1 601 91-2239",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "AMBULANZOGD.262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.352413257816327,
+                    48.17538530494133
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 262,
+                "KRANKENHAUS_BEZEICHNUNG": "Sozialmedizinisches Zentrum Süd - Kaiser-Franz-Josef-Spital mit Gottfried von Preyer'schem Kinderspital",
+                "ABTEILUNG": "2. Medizinische Abteilung mit Rheumatologie und Osteologie<br />2. Medizinische Ambulanz",
+                "BEZEICHNUNG": "Osteoporose Ambulanz",
+                "WEBLINK1": "http://www.wienkav.at/kav/kfj/Medstellen_Anzeigen.asp?id=997",
+                "ADRESSE": "10., Kundratstraße 3",
+                "BEZIRK": 10,
+                "TELEFON": "+43 1 601 91-2239",
+                "SE_ANNO_CAD_DATA": null
+            }
+        }
+    ]
+}
